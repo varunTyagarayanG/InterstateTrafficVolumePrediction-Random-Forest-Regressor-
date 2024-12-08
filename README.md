@@ -1,4 +1,4 @@
-# REGRESSION-MODEL-FOR-METRO-INTERSTATE-TRAFFIC-VOLUME
+ # REGRESSION-MODEL-FOR-METRO-INTERSTATE-TRAFFIC-VOLUME
 
 The purpose of this project is to construct a predictive model using various machine learning algorithms to predict traffic volume.
 Metro Interstate Traffic Volume data set contains Hourly weather features and holidays included for impacts on traffic volume
@@ -269,3 +269,9 @@ Minimal Deviation from Ideal Performance: The curve stays close to the top-left 
    Deviations in the Tails: The points deviate from the line at the lower and upper ends, indicating outliers or heavy tails, which suggest the data may not follow a perfect normal distribution in these regions.
 
    Possible Non-Normal Distribution: The deviations in the tails imply the data could be better described by a different distribution (e.g., heavy-tailed or skewed), or the presence of extreme values that need further investigation.
+<<<<<<< HEAD
+=======
+#   I n t e r s t a t e T r a f f i c V o l u m e P r e d i c t i o n - R a n d o m - F o r e s t - R e g r e s s o r - 
+ 
+ 
+>>>>>>> e8791c20aa4294ebd6742ffe53fdca5231fcf26a
