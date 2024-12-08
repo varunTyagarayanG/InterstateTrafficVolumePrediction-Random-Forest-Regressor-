@@ -9,18 +9,6 @@ Traffic volume: Measured hourly.
 Weather attributes: Temperature, rain, snow, cloud cover.
 Temporal attributes: Date, time, holidays, and weekdays.
 
-Initially we have taken Metro_Interstate_traffic data which inclides the columns along with data types:
-
-0 holiday 61 non-null object
-1 temp 48204 non-null float64
-2 rain_1h 48204 non-null float64
-3 snow_1h 48204 non-null float64
-4 clouds_all 48204 non-null int64  
- 5 weather_main 48204 non-null object
-6 weather_description 48204 non-null object
-7 date_time 48204 non-null object
-8 traffic_volume 48204 non-null int64
-
 # Analyzing the numerical columns rain_1h , snow_1h, temp, cloud_all
 
 1. rain_1hr: the avg value of the rain in 1 hr is 0.334264 and the highest value is 9831.300000
